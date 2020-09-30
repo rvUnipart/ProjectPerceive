@@ -23,9 +23,9 @@ A: On-site work is optional. Obviously if you would like to install devices or u
 
 # To Do
 ## PCB Design
-- [] Use a ribbon cable or similar for the PCB connection as opposed to soldering free wires onto the board. The other end will still need to be soldered to the back of the DIN box screw terminals.
-- [] How do faults on the PCB impact the interfacing machine? Should do a risk assessment and/or FMEA on the design. Polyfuses sound really good - have a look at them.
-- [] Need to check what level of surge protection the device has - the DC/DC converter module may have already something but need to check (varistors? CVS diodes?).
-- [] Verification of data - how do we confirm that there is no loss of data and/or false positives (noise)?
-- [] What are EMC requirements that device needs to pass? Talk to York EMC external test house or other.
+- [ ] Use a ribbon cable or similar for the PCB connection as opposed to soldering free wires onto the board. The other end will still need to be soldered to the back of the DIN box screw terminals.
+- [ ] How do faults on the PCB impact the interfacing machine? Should do a risk assessment and/or FMEA on the design. Polyfuses sound really good - have a look at them.
+- [ ] Need to check what level of surge protection the device has - the DC/DC converter module may have already something but need to check (varistors? CVS diodes?).
+- [ ] Verification of data - how do we confirm that there is no loss of data and/or false positives (noise)?
+- [ ] What are EMC requirements that device needs to pass? Talk to York EMC external test house or other.
 
