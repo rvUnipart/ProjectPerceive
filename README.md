@@ -1,7 +1,10 @@
 # Project Perceive
-Manufacturing data collectors stack
+## Manufacturing data collectors stack.
+**Table of contents**
+* [Introduction](https://github.com/rvUnipart/ProjectPerceive/edit/master/README.md#introduction)
+* [Contributions](https://github.com/rvUnipart/ProjectPerceive/edit/master/README.md#contributions)
 
-# What is it?
+# Introduction
 Project Perceive is a full stack IoT platform to be used at manufacturing sites to collect machine data in the absence of SCADA and/or PLC's.
 
 # Contributions
