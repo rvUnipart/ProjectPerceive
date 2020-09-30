@@ -13,7 +13,9 @@ Project Perceive is a collaborative project within the Unipart Digital Champions
 
 # FAQ
 Q: How is the project managed?
+
 A: The project will be run in an open source manner. There are no specific milestones or timing requirements for contributors.
 
 Q: Will I be required to visit particular sites to be able to contribute?
+
 A: On-site work is optional. Obviously if you would like to install devices or undertake mechanical design change work then you will need to be on-site for those pieces of work.
