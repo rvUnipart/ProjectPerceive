@@ -1,4 +1,4 @@
-# Project Perceive
+# Project Perceive :eye:
 ## Manufacturing data collectors stack.
 **Table of contents**
 * [Introduction](https://github.com/rvUnipart/ProjectPerceive/blob/master/README.md#introduction)
