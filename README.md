@@ -31,6 +31,8 @@ The current/existing stack:
 # Contributions
 Project Perceive is a collaborative project within the Unipart Digital Champions network. Anyone at Unipart can [apply](https://www.unipartwayonline.com/systems-tools/digital/digital-community/) to be a Digital Champion meaning that anyone at Unipart can also get involved in Project Perceive.
 
+The internal development log can be found [here](https://docs.google.com/document/d/107jLMQkJ1DhkErDfkK61GGhLysu-sKJysHNekaJKcYs/edit).
+
 # FAQ
 * Q: How is the project managed?
 * A: The project will be run in an open source manner. There are no specific milestones or timing requirements for contributors.
