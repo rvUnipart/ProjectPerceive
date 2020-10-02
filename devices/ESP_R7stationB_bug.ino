@@ -15,12 +15,12 @@
 #define MCP_ADDR_1 0b0100001 // A2,A1,A0 = 0,0,1
 
 // WiFi credentials
-#define WIFI_SSID "UPA Devices"
-#define WIFI_PASSWORD "UPAD3vic3s2018!"
+#define WIFI_SSID "" // REDACTED
+#define WIFI_PASSWORD "" // REDACTED
 
 // MQTT server/broker credentials
-#define MQTT_HOST "UMGSVRIIOT01.WORLD.BIZ"
-#define MQTT_PORT 1883
+#define MQTT_HOST "" // REDACTED
+#define MQTT_PORT 1883 // default port
 
 // Library objects
 AsyncMqttClient mqttClient;
