@@ -1,0 +1,3 @@
+The .ino file is Arduino format. This is one revision of the code that went onto the "digital_device" (16 digital inputs) NodeMCU's.
+
+The 2 .json files are backups for the PCB design files used by EasyEDA Designer (free online tool).
